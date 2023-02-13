@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SufianAhmadar
+- 👋 Hi, I’m Sufian Ahmad (Artistic)
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Game Development & Design
-- 💞️ I’m looking to collaborate on Unity3D
-- 📫 How to reach me https://www.instagram.com/artistic_gameworld/
+- 🌱 I’m working on Game Development & Design
+- 💞️ I’m looking to enhance my programming skills
+- 📫 How to reach me https://www.linkedin.com/in/sufian-ahmad-0b38ab1a8/
 
 <!---
 SufianAhmadar/SufianAhmadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
